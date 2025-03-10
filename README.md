@@ -1,4 +1,3 @@
-```markdown
 # User Service
 
 Este é um exemplo de um serviço gRPC implementado em TypeScript utilizando o padrão MVC (Model-View-Controller). O projeto demonstra como gerenciar usuários por meio de operações de criação, busca por ID e listagem, com o objetivo de servir como base para um sistema distribuído.
@@ -36,7 +35,6 @@ O serviço é composto por três camadas principais:
 
 Além dessas camadas, o projeto inclui um servidor gRPC (`src/server.ts`) que registra os handlers e um exemplo de cliente (`src/client.ts`) para testar as operações.
 
-```
 
 ## Pré-requisitos
 
@@ -48,8 +46,8 @@ Além dessas camadas, o projeto inclui um servidor gRPC (`src/server.ts`) que re
 1. **Clone o repositório e acesse a pasta do projeto:**
 
    ```bash
-   git clone <URL_DO_REPOSITÓRIO>
-   cd user-service
+   git clone <https://github.com/pepeu120/UserServiceSpc.git>
+   cd userServiceRpc
    ```
 
 2. **Instale as dependências:**
