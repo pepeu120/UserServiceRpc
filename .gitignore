@@ -1,0 +1,26 @@
+# Diretórios de dependências
+node_modules/
+
+# Diretório de compilação/saída
+dist/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dados de cobertura de testes
+coverage/
+.nyc_output/
+
+# Arquivos de ambiente (não versionar dados sensíveis)
+.env
+
+# Cache de ferramentas
+.eslintcache
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
