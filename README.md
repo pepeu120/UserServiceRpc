@@ -46,7 +46,7 @@ Além dessas camadas, o projeto inclui um servidor gRPC (`src/server.ts`) que re
 1. **Clone o repositório e acesse a pasta do projeto:**
 
    ```bash
-   git clone <https://github.com/pepeu120/UserServiceRpc.git>
+   git clone https://github.com/pepeu120/UserServiceRpc.git
    cd userServiceRpc
    ```
 
